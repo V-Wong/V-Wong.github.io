@@ -18,6 +18,5 @@ written for many of the UNSW computing courses I have taken.
 
 ## Contact Me
 I am always open to new opportunities in software engineering. Feel free to contact me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Vincent_Wong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-wc-wong//)](https://www.linkedin.com/in/vincent-wc-wong/) 
-[![Gmail Badge](https://img.shields.io/badge/-vincent@vwong.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vincent@vwong.dev)](mailto:vincent@vwong.dev)
+- [On LinkedIn](https://www.linkedin.com/in/vincent-wc-wong/)
+- [By email](mailto:vincent@vwong.dev)

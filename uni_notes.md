@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: University Notes
 permalink: /university-notes
 ---
@@ -17,6 +17,6 @@ permalink: /university-notes
 > #### [Extended Algorithms and Programming Techniques](COMP3821)
 > An introduction to algorithm design stratagies such as divide and conquer, greedy methods and dynamic programming.
 
-# COMP3331
+## COMP3331
 > #### [Database Systems](COMP3331)
 > A first look at databases involving data modelling, relational database management systems and architecture of database management systems.

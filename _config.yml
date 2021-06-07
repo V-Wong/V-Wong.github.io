@@ -16,7 +16,8 @@
 title: Vincent Wong - Software Engineer
 email: vincent@vwong.dev
 description: >- # this means to ignore newlines until "baseurl:"
-  Sydney Based Full Stack Developer
+  Full stack developer based in Sydney, Australia
+  Current computer science and mathematics student at UNSW.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vwong.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: V-Wong

@@ -6,15 +6,18 @@ permalink: /
 
 # Hi There!
 I'm Vincent, a software engineer based in Sydney, Australia. I currently study Computer Science
-and Mathematics at [UNSW](https://unsw.edu.au) while also working as a Junior Software Developer at [Ventia](https://ventia.com).
+and Mathematics at [UNSW](https://unsw.edu.au) while also working part time as a Junior Software Developer at [Ventia](https://ventia.com).
 
-I have experience programming with:
+I am interested in all aspects of software engineering and learning new techniques to write elegant, secure and scalable software solutions. 
+I primarily develop software in
+- Rust
 - Python
 - Javascript/Typescript
-- C++
+
+and also have project experience in Java and C++.
 
 On this site, you will find various of my software projects as well as notes
-written for many of the UNSW computing courses I have taken.
+written for the UNSW computing courses I have taken.
 
 # Contact Me
 I am always open to new opportunities in software engineering. Feel free to contact me:

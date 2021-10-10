@@ -10,8 +10,8 @@ permalink: /projects
 >
 > Frontend built in React and Bootstrap. Backend built in Python using AWS Lambda and DynamoDB.  
 
-## CubeSim V2
-> #### [GitHub Repo](https://github.com/V-Wong/CubeSim2)
+## CubeSim RS
+> #### [GitHub Repo](https://github.com/V-Wong/CubeSimRS)
 > A high performance Rubik's Cube simulator.
 >
 > Built in Rust with CGMath for Linear Algebra operations.

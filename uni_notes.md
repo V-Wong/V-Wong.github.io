@@ -4,6 +4,9 @@ title: University Notes
 permalink: /university-notes
 ---
 
+### [**COMP9315** - Database Systems Implementation](https://github.com/V-Wong/COMP9315)
+> Detailed examination of techniques used in the implementation of relational, object-oriented and distributed database systems.
+
 ### [**COMP3141** - Software System Design and Implementation](https://github.com/V-Wong/COMP3141)
 > Introduction to software engineering using formal methods and mathematical principles.
 

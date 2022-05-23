@@ -5,7 +5,7 @@ permalink: /projects
 ---
 
 ### [**CubeSim RS** - Rust-based Rubik's Cube Library](https://github.com/V-Wong/CubeSimRS)
-> High performance Rubik's Cube simulator with Thistlethwaite method solution generation.
+> High performance Rubik's Cube simulation library with Thistlethwaite method solution generation.
 >
 > Built in Rust with [Criterion](https://docs.rs/criterion/latest/criterion/) for benchmarking and [Test Case](https://crates.io/crates/test-case) for parameterized testing.
 
@@ -14,13 +14,13 @@ permalink: /projects
 >
 > Frontend built in [React](https://reactjs.org/). Backend built in Python using [AWS Lambda](https://aws.amazon.com/lambda/) and [DynamoDB](https://aws.amazon.com/dynamodb/).  
 
-### [**ra-evaluator** - Rust-based Relational Algebra Evaluator](https://github.com/V-Wong/ra-evaluator)
+### [**ra-evaluator** - Rust-based Relational Algebra Library](https://github.com/V-Wong/ra-evaluator)
 > Type-safe and generic relational algebra evaluation system for SQL-like queries.
 >
 > Built entirely in [Rust](https://www.rust-lang.org/) with zero dependencies.
 
 ### [**chip8** - C++-based CHIP-8 Emulator](https://github.com/V-Wong/chip8)
-> Replication of the CHIP-8 CPU and memory model along with 35 opcode instructions.
+> Emulator for the CHIP-8 CPU and memory model along with 35 opcode instructions.
 >
 > Built in modern C++20 with [SDL2](https://www.libsdl.org/) for graphics and input handling.
 
@@ -28,7 +28,6 @@ permalink: /projects
 > Rubik's Cube simulator with 2D graphical rendering and LBL method solution generation.
 >
 > Built in Python using [PyGame](https://www.pygame.org/news) for graphics and input handling.
-
 
 ### [**Huffman Encoding Visualiser** - Web based Algorithm Education Helper](https://vwong.dev/Huffman-Encoding)
 > Interactive visualiser for the binary tree generated during the Huffman compression algorithm.

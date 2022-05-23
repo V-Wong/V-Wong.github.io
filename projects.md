@@ -28,3 +28,8 @@ permalink: /projects
 > Interactive visualiser for the binary tree generated during the Huffman compression algorithm.
 >
 > Built in Typescript and [React](https://reactjs.org/) with [HTML5 Canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API) for graphics rendering.
+
+### [**ra-evaluator** - Relational Algebra Evaluator](https://github.com/V-Wong/ra-evaluator)
+> Simple type-safe and generic relation algebra evaluation system.
+>
+> Built entirely in Rust with zero dependencies.

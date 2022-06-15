@@ -18,6 +18,8 @@ I primarily develop software in
 
 and also have project experience in Java and C++.
 
+Outside of coding, I'm also an avid [speedcuber](https://www.worldcubeassociation.org/persons/2014WONG08). I have attained [national championship podiums](https://www.worldcubeassociation.org/persons/2014WONG08?tab=championship-podiums) and am [ranked top 20 worldwide in one-handed solving](https://www.worldcubeassociation.org/persons/2014WONG08?tab=results-by-event&event=333oh).
+
 On this site, you will find various of my software projects as well as notes
 written for the UNSW computing courses I have taken.
 

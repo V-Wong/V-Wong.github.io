@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: /projects
 ---
-
+# Projects
 ### [**CubeSim RS** - Rust-based Rubik's Cube Library](https://github.com/V-Wong/CubeSimRS)
 - High performance Rubik's Cube simulation library with Thistlethwaite method solution generation.
 - Built in Rust with [Criterion](https://docs.rs/criterion/latest/criterion/) for benchmarking and [Test Case](https://crates.io/crates/test-case) for parameterized testing.

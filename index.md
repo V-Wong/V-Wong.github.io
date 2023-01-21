@@ -11,12 +11,12 @@ and Mathematics at [UNSW](https://unsw.edu.au) and have worked in various softwa
 - Software Engineer Intern at [IMC Trading](https://www.imc.com/ap/) (December 2021 - February 2022)
 - Junior Developer at [Ventia](https://www.ventia.com/) (September 2019 - November 2021)
 
-I am interested in all aspects of software engineering and learning new techniques to write elegant, secure and scalable software solutions. I primarily develop software in
-- Rust
-- Python
-- Javascript/Typescript
+I am interested in all aspects of software engineering and learning new techniques to write elegant, secure and scalable software solutions. I primarily develop software in:
+- Python - Used to build web backends with FastAPI, automation scripts with Selenium, and perform data analysis with Pandas. 
+- Javascript/Typescript: Used to build web frontends with React and web backends with Koa.
+- Rust: Used to build high performance and parallel applications.
 
-and also have project experience in Java and C++.
+and also have experience in Java and C++.
 
 Outside of coding, I'm also an avid [speedcuber](https://www.worldcubeassociation.org/persons/2014WONG08). I have attained [national championship podiums](https://www.worldcubeassociation.org/persons/2014WONG08?tab=championship-podiums) and am [ranked top 20 worldwide in one-handed solving](https://www.worldcubeassociation.org/persons/2014WONG08?tab=results-by-event&event=333oh).
 

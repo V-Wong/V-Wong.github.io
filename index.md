@@ -13,10 +13,9 @@ and Mathematics at [UNSW](https://unsw.edu.au) and have worked in various softwa
 
 I am interested in all aspects of software engineering and learning new techniques to write elegant, secure and scalable software solutions. I primarily develop software in:
 - Rust: high performance and parallel applications.
+- Java: large-scale enterprise applications.
 - Python - web backends, automation scripts and data analysis tools.
 - Javascript/Typescript: full stack web applications.
-
-and also have experience in Java and C++.
 
 Outside of coding, I'm also an avid [speedcuber](https://www.worldcubeassociation.org/persons/2014WONG08). I have attained [national championship podiums](https://www.worldcubeassociation.org/persons/2014WONG08?tab=championship-podiums) and am [ranked top 20 worldwide in one-handed solving](https://www.worldcubeassociation.org/persons/2014WONG08?tab=results-by-event&event=333oh).
 

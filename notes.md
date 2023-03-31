@@ -10,6 +10,9 @@ permalink: /notes
 ### [**COMP3141** - Software System Design and Implementation](/notes/COMP3141)
 - Introduction to software engineering using formal methods and mathematical principles.
 
+### [**COMP2511** - Object-Oriented Programming](/notes/COMP2511)
+- The theory and practice of object object-oriented design and programming.
+
 ### [**COMP3891** - Extended Operating Systems](/notes/COMP3891)
 - A deeper look into operating system principles such as process management, memory management, storage management, security and multiprocessor systems.
 

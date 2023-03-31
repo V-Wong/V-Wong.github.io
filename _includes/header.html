@@ -56,3 +56,10 @@
     }
   }
 </style>
+
+<script>
+  // Hack to fix MD page converted to HTML having two titles.
+  if (window.location.pathname.split("/")[1] === "notes") {
+    document.querySelector(".post-content > h1").remove();
+  }
+</script>

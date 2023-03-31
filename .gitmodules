@@ -1,0 +1,3 @@
+[submodule "study_notes/COMP9315"]
+	path = study_notes/COMP9315
+	url = git@github.com:V-Wong/COMP9315.git

@@ -7,3 +7,6 @@
 [submodule "study_notes/COMP3891"]
 	path = study_notes/COMP3891
 	url = git@github.com:V-Wong/COMP3891.git
+[submodule "study_notes/COMP3821"]
+	path = study_notes/COMP3821
+	url = git@github.com:V-Wong/COMP3821.git

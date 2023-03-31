@@ -1,3 +1,6 @@
 [submodule "study_notes/COMP9315"]
 	path = study_notes/COMP9315
 	url = git@github.com:V-Wong/COMP9315.git
+[submodule "study_notes/COMP3141"]
+	path = study_notes/COMP3141
+	url = git@github.com:V-Wong/COMP3141.git

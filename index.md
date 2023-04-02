@@ -18,7 +18,7 @@ I develop a range of software in various languages:
 
 Outside of coding, I'm an avid [speedcuber](https://www.worldcubeassociation.org/persons/2014WONG08) with [national championship podiums](https://www.worldcubeassociation.org/persons/2014WONG08?tab=championship-podiums).
 
-# Contact Me
+# 📞 Contact Me
 I am always open to new opportunities in software engineering. Feel free to contact me:
 - [On LinkedIn](https://www.linkedin.com/in/vincent-wc-wong/).
 - [By email](mailto:vincent@vwong.dev).

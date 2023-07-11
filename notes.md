@@ -30,3 +30,6 @@ permalink: /notes
 
 ### [**AWS** - Cloud Essentials Learning Plan](/notes/cloud-essentials)
 - A introduction to foundational AWS Cloud concepts including AWS services, security, architecture, pricing, and support.
+
+### [**OpenIntro** - Statistics](/notes/openintro-statistics/)
+- Introduction to applied statistics and the foundations of data science.

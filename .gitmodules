@@ -22,3 +22,6 @@
 [submodule "notes/cloud-essentials"]
 	path = notes/cloud-essentials
 	url = git@github.com:V-Wong/cloud-essentials.git
+[submodule "notes/openintro-statistics"]
+	path = notes/openintro-statistics
+	url = git@github.com:V-Wong/openintro-statistics.git

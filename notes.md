@@ -23,6 +23,8 @@ permalink: /notes
 ### [**COMP3311** - Database Systems](/notes/COMP3311)
 - Detailed exploration of the theory and development of database applications.
 
+</br>
+
 # Self-Study Notes
 ### [**DDIA** - Designing Data Intensive Applications](/notes/ddia)
 - Comprehensive guide to designing reliable, scalable and evolvable data systems.

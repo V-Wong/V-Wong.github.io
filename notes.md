@@ -27,3 +27,6 @@ permalink: /notes
 ## Self-Study Notes
 ### [**DDIA** - Designing Data Intensive Applications](/notes/ddia)
 - Comparison of the fundamental ideas behind a broad variety of data systems.
+
+### [**AWS** - Cloud Essentials Learning Plan](/notes/cloud-essentials)
+- A introduction to foundational AWS Cloud concepts including AWS services, security, architecture, pricing, and support.

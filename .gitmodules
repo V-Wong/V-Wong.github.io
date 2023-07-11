@@ -19,3 +19,6 @@
 [submodule "notes/ddia"]
 	path = notes/ddia
 	url = git@github.com:V-Wong/ddia.git
+[submodule "notes/cloud-essentials"]
+	path = notes/cloud-essentials
+	url = git@github.com:V-Wong/cloud-essentials.git

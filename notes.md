@@ -4,7 +4,7 @@ title: Study Notes
 permalink: /notes
 ---
 
-# 🗒️ Study Notes
+# Study Notes
 ## University Notes
 ### [**COMP9315** - Database Systems Implementation](/notes/COMP9315)
 - Detailed examination of techniques used in the implementation of relational, object-oriented and distributed database systems.

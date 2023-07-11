@@ -16,3 +16,6 @@
 [submodule "notes/COMP2511"]
 	path = notes/COMP2511
 	url = git@github.com:V-Wong/COMP2511.git
+[submodule "notes/ddia"]
+	path = notes/ddia
+	url = git@github.com:V-Wong/ddia.git

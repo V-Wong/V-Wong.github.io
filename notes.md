@@ -3,7 +3,9 @@ layout: default
 title: Study Notes
 permalink: /notes
 ---
+
 # 🗒️ Study Notes
+## University Notes
 ### [**COMP9315** - Database Systems Implementation](/notes/COMP9315)
 - Detailed examination of techniques used in the implementation of relational, object-oriented and distributed database systems.
 
@@ -21,3 +23,7 @@ permalink: /notes
 
 ### [**COMP3311** - Database Systems](/notes/COMP3311)
 - A first look at databases involving data modelling, relational database management systems and architecture of database management systems.
+
+## Self-Study Notes
+### [**DDIA** - Designing Data Intensive Applications](/notes/ddia)
+- Comparison of the fundamental ideas behind a broad variety of data systems.

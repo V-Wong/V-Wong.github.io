@@ -20,4 +20,4 @@ permalink: /projects
 - Visual 3x3 Rubik's Cube simulator and solver written in Python using PyGame.
 
 ### [**Huffman Visualiser**](https://vwong.dev/Huffman-Encoding)
- Huffman Encoding visualisation web app written in Typescript and React.
+- Huffman Encoding visualisation web app written in Typescript and React.

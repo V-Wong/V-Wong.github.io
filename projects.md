@@ -7,7 +7,7 @@ permalink: /projects
 ### [**CubeSim RS**](https://github.com/V-Wong/CubeSimRS)
 - High-performance Rubik's Cube solver library written in Rust.
 
-### [**LinkUp**](https://linkupevents.com.au)
+### [**LinkUp - Events**](https://linkupevents.com.au)
 - Centralised web platform for UNSW events written in AWS Lambda and React.
 
 ### [Relational Algebra Evaluator](https://github.com/V-Wong/ra-evaluator)

@@ -5,13 +5,13 @@ permalink: /projects
 ---
 # Projects
 ### [**CubeSim RS**](https://github.com/V-Wong/CubeSimRS)
-- High-performance Rubik's Cube solver written in Rust.
+- High-performance Rubik's Cube solver library written in Rust.
 
 ### [**LinkUp**](https://linkupevents.com.au)
 - Centralised web platform for UNSW events written in AWS Lambda and React.
 
 ### [Relational Algebra Evaluator](https://github.com/V-Wong/ra-evaluator)
-- Generic relational algebra system written in Rust.
+- Generic relational algebra system written in Rust with zero dependencies.
 
 ### [CHIP-8 Emulator](https://github.com/V-Wong/chip8)
 - CHIP-8 virtual machine emulator written in modern C++ using SDL2.

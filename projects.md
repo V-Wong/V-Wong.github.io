@@ -8,7 +8,7 @@ permalink: /projects
 - High-performance Rubik's Cube solver written in Rust.
 
 ### [**LinkUp**](https://linkupevents.com.au)
-- Centralised web platform for UNSW events written in React with AWS Lambda.
+- Centralised web platform for UNSW events written in AWS Lambda and React.
 
 ### [Relational Algebra Evaluator](https://github.com/V-Wong/ra-evaluator)
 - Generic relational algebra system written in Rust.

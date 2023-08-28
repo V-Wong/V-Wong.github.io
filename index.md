@@ -5,7 +5,7 @@ permalink: /
 ---
 
 # Hi There, I'm Vincent!
-I'm currently a backend software engineer at [Atlassian](https://www.atlassian.com/) in Sydney, Australia. Before that, I studied applied mathematics and computer science at [UNSW](https://www.unsw.edu.au/). While studying, I took up roles as:
+I'm a backend software engineer at [Atlassian](https://www.atlassian.com/) in Sydney, Australia. Before that, I studied applied mathematics and computer science at [UNSW](https://www.unsw.edu.au/). While studying, I took up roles as:
 - Software Engineer Intern at [IMC Trading](https://www.imc.com/ap/) (December 2021 - February 2022).
 - Casual Software Developer at [Ventia](https://www.ventia.com/) (September 2019 - November 2021).
 

@@ -12,7 +12,7 @@ I'm currently a backend software engineer at [Atlassian](https://www.atlassian.c
 Outside of work, I have worked on projects in a variety of languages including:
 - Rust: [CubeSimRS](https://github.com/V-Wong/CubeSimRS) and [ra-evaluator](https://github.com/V-Wong/ra-evaluator).
 - Python: [CubeSimPy](https://github.com/V-Wong/CubeSim) and [LZ78 Encoder](https://github.com/V-Wong/MATH3411/blob/master/LZ78.py).
-- Javascript/Typescript: [Huffman Encoding Visualiser](https://vwong.dev/Huffman-Encoding/) and [LinkUp Events](https://linkupevents.com/).
+- JavaScript/TypeScript: [Huffman Encoding Visualiser](https://vwong.dev/Huffman-Encoding/) and [LinkUp Events](https://linkupevents.com/).
 
 When not coding, I like to [speedcube](https://www.worldcubeassociation.org/persons/2014WONG08) and have held [national championship podiums](https://www.worldcubeassociation.org/persons/2014WONG08?tab=championship-podiums).
 

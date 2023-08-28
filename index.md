@@ -17,7 +17,3 @@ Outside of work, I have worked on projects in a variety of languages including:
 - JavaScript/TypeScript: [Huffman Encoding Visualiser](https://vwong.dev/Huffman-Encoding/) and [LinkUp Events](https://linkupevents.com/).
 
 When not coding, I like to [speedcube](https://www.worldcubeassociation.org/persons/2014WONG08) and have held [national championship podiums](https://www.worldcubeassociation.org/persons/2014WONG08?tab=championship-podiums).
-
-# Contact Me
-[![Linkedin Badge](https://img.shields.io/badge/-Vincent_Wong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vincent-wc-wong//)](https://www.linkedin.com/in/vincent-wc-wong/) 
-[![Gmail Badge](https://img.shields.io/badge/-vincent@vwong.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vincent@vwong.dev)](mailto:vincent@vwong.dev)

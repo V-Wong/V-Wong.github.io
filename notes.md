@@ -35,5 +35,5 @@ permalink: /notes
 - Introduction to applied statistics and the foundations of data science.
 
 ## Others
-### [**External Resources**](/notes/resources)
-- Collection of reference materials I've found useful.
+### [**External Software Resources**](/notes/resources)
+- Collection of external resources for various software topics.

@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Notes
-permalink: /notes
+title: Resources
+permalink: /resources
 ---
 
-# Notes
-## University
+# Resources
+## University Notes
 ### [**COMP9315** - Database Systems Implementation](/notes/COMP9315)
 - Detailed examination of techniques used in the implementation of relational databases.
 
@@ -24,7 +24,7 @@ permalink: /notes
 ### [**COMP3311** - Database Systems](/notes/COMP3311)
 - Detailed exploration of the theory and development of database applications.  
   
-## Self-Study
+## Self-Study Notes
 ### [**DDIA** - Designing Data Intensive Applications](/notes/ddia)
 - Comprehensive guide to designing reliable, scalable and evolvable data systems.
 
@@ -34,6 +34,6 @@ permalink: /notes
 ### [**OpenIntro** - Statistics](/notes/openintro-statistics/)
 - Introduction to applied statistics and the foundations of data science.
 
-## Others
-### [**External Software Resources**](/notes/resources)
+## Other Resources
+### [**External Software Resources**](/notes/software-resources)
 - Collection of external resources for various software topics.

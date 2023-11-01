@@ -4,7 +4,7 @@ title: Notes
 permalink: /notes
 ---
 
-# Resources
+# Notes
 ## University Notes
 ### [**COMP9315** - Database Systems Implementation](/notes/COMP9315)
 - Detailed examination of techniques used in the implementation of relational databases.
@@ -34,6 +34,6 @@ permalink: /notes
 ### [**OpenIntro** - Statistics](/notes/openintro-statistics/)
 - Introduction to applied statistics and the foundations of data science.
 
-## Other Resources
-### [**External Software Resources**](/notes/software-resources)
+## External Resources
+### [**Software Resources**](/notes/software-resources)
 - Collection of external resources for various software topics.

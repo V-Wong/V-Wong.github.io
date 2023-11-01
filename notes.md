@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Study Notes
+title: Notes
 permalink: /notes
 ---
 
-# University Notes
+# Notes
+## University
 ### [**COMP9315** - Database Systems Implementation](/notes/COMP9315)
 - Detailed examination of techniques used in the implementation of relational databases.
 
@@ -22,10 +23,8 @@ permalink: /notes
 
 ### [**COMP3311** - Database Systems](/notes/COMP3311)
 - Detailed exploration of the theory and development of database applications.  
-
-<br />
   
-# Self-Study Notes
+## Self-Study
 ### [**DDIA** - Designing Data Intensive Applications](/notes/ddia)
 - Comprehensive guide to designing reliable, scalable and evolvable data systems.
 
@@ -34,3 +33,7 @@ permalink: /notes
 
 ### [**OpenIntro** - Statistics](/notes/openintro-statistics/)
 - Introduction to applied statistics and the foundations of data science.
+
+## Others
+### [**External Resources**](/notes/resources)
+- Collection of reference materials I've found useful.

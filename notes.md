@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Resources
-permalink: /resources
+title: Notes
+permalink: /notes
 ---
 
 # Resources

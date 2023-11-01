@@ -25,3 +25,6 @@
 [submodule "notes/openintro-statistics"]
 	path = notes/openintro-statistics
 	url = git@github.com:V-Wong/openintro-statistics.git
+[submodule "notes/resources"]
+	path = notes/resources
+	url = git@github.com:V-Wong/resources.git

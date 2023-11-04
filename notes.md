@@ -31,9 +31,6 @@ permalink: /notes
 ### [**AWS** - Cloud Essentials Learning Plan](/notes/cloud-essentials)
 - Introduction to foundational AWS Cloud concepts.
 
-### [**OpenIntro** - Statistics](/notes/openintro-statistics/)
-- Introduction to applied statistics and the foundations of data science.
-
 ## External Resources
 ### [**Software Resources**](/notes/software-resources)
 - Collection of external resources for various software topics.

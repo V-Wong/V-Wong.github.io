@@ -8,7 +8,7 @@ permalink: /projects
 - High-performance Rubik's Cube solver library written in Rust.
 
 ### [**LinkUp Events**](https://linkupevents.com)
-- Centralised web platform for UNSW events written in AWS Lambda and React.
+- Centralised web platform for UNSW events implemented in AWS Lambda and React.
 
 ### [Relational Algebra Evaluator](https://github.com/V-Wong/ra-evaluator)
 - Generic relational algebra system written in Rust with zero dependencies.
@@ -21,3 +21,6 @@ permalink: /projects
 
 ### [**Huffman Visualiser**](https://vwong.dev/Huffman-Encoding)
 - Huffman Encoding visualisation web app written in Typescript and React.
+
+### [**ToyWebRS**](https://github.com/V-Wong/toywebrs)
+- Simple multi-threaded web framework written in pure Rust.

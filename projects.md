@@ -4,6 +4,7 @@ title: Projects
 permalink: /projects
 ---
 # Projects
+## Hobby Projects
 ### [**CubeSim RS**](https://github.com/V-Wong/CubeSimRS)
 - High-performance Rubik's Cube solver library written in Rust.
 
@@ -24,3 +25,10 @@ permalink: /projects
 
 ### [**ToyWebRS**](https://github.com/V-Wong/toywebrs)
 - Simple multi-threaded web framework written in pure Rust.
+
+## Random Skills Development
+### [**Frontend Practice**](https://vwong.dev/frontend-practice)
+- Implementations of common UI components in React and Tailwind
+
+### [**Kube**](https://github.com/V-Wong/kube)
+- IaC and scripts to provision a Kubernetes cluster across multiple cloud providers.

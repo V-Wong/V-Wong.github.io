@@ -4,7 +4,7 @@ title: Notes
 permalink: /notes
 ---
 
-# Notes
+# 📖 Notes
 ## University Notes
 - [**COMP9315** - Database Systems Implementation](/notes/COMP9315)
     - Detailed examination of techniques used in the implementation of relational databases.

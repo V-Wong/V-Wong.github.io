@@ -3,7 +3,7 @@ layout: default
 title: Projects
 permalink: /projects
 ---
-# Projects
+# 💻 Projects
 ## Hobby Projects
 - [**CubeSim RS**](https://github.com/V-Wong/CubeSimRS)
     - NxN Rubik's Cube solver library written in Rust.

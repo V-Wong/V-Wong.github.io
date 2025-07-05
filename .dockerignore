@@ -1,0 +1,33 @@
+# Jekyll build output
+_site/
+.jekyll-cache/
+
+# Git
+.git/
+.gitignore
+.gitmodules
+
+# GitHub
+.github/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp 
